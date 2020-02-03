@@ -5,6 +5,7 @@ Colaboratory is a free Jupyter notebook environment that requires no setup and r
 
 There are two ways to access our seminars through Google Colaboratory (tested on Google Chrome, version 76.0.):
 1. Opening the corresponding seminar's Jupyter Notebook in Github and clicking the button "Open in Google Colab":
+![image01](/img/img01.png)
 2. Through https://colab.research.google.com/github/adasegroup/ML2020_seminars: 
   
    * First go to https://colab.research.google.com/github/adasegroup/ML2020_seminars
