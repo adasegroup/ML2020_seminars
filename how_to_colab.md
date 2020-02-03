@@ -1,15 +1,20 @@
 # Running the tutorials on Google Colaboratory:
-Most of the tutorials were created using Jupyter Notebooks. In order to reduce the time spent on installing various software, we have made sure that all of the tutorials are Google Colaboratory friendly. 
+All of the seminars were created using Jupyter Notebooks. In order to reduce the time spent on installing various software, we have made sure that all of the seminars are Google Colaboratory friendly. 
 
-Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser. All of the notebooks already contain all the set-ups needed for each particular tutorial, so you will just be required to run the first several cells.
+Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser. All of the notebooks already contain all the set-ups needed for each particular seminar, so you will just be required to run the first several cells.
 
-Here are the instructions on how open the notebooks in Colaboratory (tested on Google Chrome, version 76.0.):
-* First go to https://colab.research.google.com/github/mlss-skoltech/
-* In the pop-up window, sign-in into your GitHub account 
-![image0](/img/img0.png)
-* In the opened window, choose the notebook correspodning to the tutorial 
-![image1](/img/img1.png)
-* The selected notebook will open, now make sure that you are signed-in into your Google account
+There are two ways to access our seminars through Google Colaboratory (tested on Google Chrome, version 76.0.):
+1. Opening the corresponding seminar's Jupyter Notebook in Github and clicking the button "Open in Google Colab":
+2. Through https://colab.research.google.com/github/adasegroup/ML2020_seminars: 
+  
+   * First go to https://colab.research.google.com/github/adasegroup/ML2020_seminars
+   * In the pop-up window, sign-in into your GitHub account 
+     ![image0](/img/img0.png)
+   * In the opened window, choose the notebook correspodning to the seminar
+  ![image1](/img/img1.png)
+
+
+* After you have opened the notebook one way or another make sure that you are signed-in into your Google account
 ![image2](/img/img2.png)
 * Try to run the first cell, you will get the following message:
 ![image3](/img/img3.png)
@@ -17,15 +22,15 @@ Press ```RUN ANYWAY```
 * For the message ```Reset all runtimes``` press ```YES```
 ![image4](/img/img4.png)
 
-In order to download all the material for the tutorial, make sure you run the cells containing the following code first (all of these cells are already added to the notebooks with the right paths):
-* For downloading the github subdirectory containing the tutorial:
+Sometimes you will need to download seminars' subdirectories as packages in order to download all the material for the seminar. We will insert the cells with the corresponding code into the seminar if needed, so, if it is the case, make sure you run the cells containing the following code first:
+* For downloading the github subdirectory containing the seminar:
 
-```!pip install --upgrade git+https://github.com/mlss-skoltech/tutorials.git#subdirectory=<name of tutorial subdirectory>```
+```!pip install --upgrade git+https://github.com/adasegroup/ML2020_seminars.git#subdirectory=<name of seminar subdirectory>```
 
 * For declaring the data files' path: 
 ```
 import pkg_resources
-DATA_PATH = pkg_resources.resource_filename('name_of_the_installed_tutorial_package', 'data/')
+DATA_PATH = pkg_resources.resource_filename('name_of_the_installed_seminar_package', 'data/')
 ```
 # Using GPU with Google Colaboratory:
 Sometimes for computationally hard tasks you will be required to use GPU instead of default CPU, in order to do this follow these steps:
