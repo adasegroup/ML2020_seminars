@@ -30,5 +30,5 @@ The instructions on how to open seminars' notebooks in Google Colaboratory: [lin
 
 You can contact the TAs via Canvas.
 
-# Contact regarding this github repo:
+## Contact regarding this github repo:
 If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at Nina.Mazyavkina@skoltech.ru 
