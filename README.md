@@ -17,5 +17,5 @@ The course syllabus can be found here: [link](http://files.skoltech.ru/data/edu/
 The required and recommended reading list can be found in Canvas through the link: [link](https://skoltech.instructure.com/courses/2361/pages/textbooks) 
 
 ## How to use Google Collab:
-The instructions on how to open seminars' notebooks: [link](https://github.com/adasegroup/ML2020_seminars/blob/master/how_to_colab.md)
+The instructions on how to open seminars' notebooks in Google Colaboratory: [link](https://github.com/adasegroup/ML2020_seminars/blob/master/how_to_colab.md)
 
