@@ -1,6 +1,6 @@
 # ML2020_seminars
 
-This is a repository containing seminars for the Skoltech's Machine Learning course (MA060018), which is taking place during Term 3, 2020.
+This is a repository containing seminars for the Skoltech's Machine Learning course (MA060018), which is held at Term 3, 2020.
 
 ## The list of the current seminars published (will be updated with time):
 * SEMINAR 1 (04.02): Ilya Trofimov - Introduction to Python and Machine Learning
@@ -19,3 +19,16 @@ The required and recommended reading list can be found in Canvas through the lin
 ## How to use Google Collab:
 The instructions on how to open seminars' notebooks in Google Colaboratory: [link](https://github.com/adasegroup/ML2020_seminars/blob/master/how_to_colab.md)
 
+## The list of the Teaching Assistants:
+* Alexander Korotin
+* Ekaterina Kondrateva
+* Rodrigo Rivera-Castro 
+* Vage Egiazarian
+* Savva Ignatyev
+* Alexnder Safin
+* Nina Mazyavkina
+
+You can contact the TAs via Canvas.
+
+# Contact regarding this github repo:
+If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at Nina.Mazyavkina@skoltech.ru 
