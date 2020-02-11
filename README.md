@@ -8,6 +8,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 * SEMINAR 3 (07.02): Ilya Trofimov - Classification
 * SEMINAR 4 (11.02): Andrey Lange - Support Vector Machines **[updated on 05.02]**
 * SEMINAR 5 (13.02): Andrey Lange - Tree-based methods, Bagging, Random forest
+* SEMINAR 8 (20.02): Denis Volkhonskiy - Statistical Analysis of Bagging. AdaBoost. Stacked generalization
 * SEMINAR 9 (21.02): Andrey Lange - Gradient Boosting and Gradient Boosting Decision Trees
 
 ## Course Description:
