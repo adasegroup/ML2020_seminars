@@ -17,7 +17,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 * SEMINAR 12 (03.03): Oleg Voynov - Shallow Artificial Neural Networks
 * SEMINAR 13 (05.03): Oleg Voynov - Deep ANNs
 * SEMINAR 14 (06.03): Ekaterina Kondrateva - Dimensionality Reduction
-* SEMINAR 15 (10.03): Nikita Klyuchnikov - Anomaly Detection
+* SEMINAR 15 (10.03): Nikita Klyuchnikov - Anomaly Detection **[updated on 24.03]**
 * SEMINAR 16 (12.03): Ekaterina Kondrateva - Clustering
 * SEMINAR 17 (13.03): Ilya Trofimov - Active Learning
 * SEMINAR 18 (22.03): Rodrigo Rivera-Castro - Time-Series
